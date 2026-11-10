@@ -1,0 +1,30 @@
+.about-container {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+}
+
+.about-title {
+    color: #1b03cd;
+    border-bottom: 2px solid #baf28a;
+    padding-bottom: 0.5rem;
+}
+
+.about-item {
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border: 1px solid #baf28a;
+    border-radius: 2px;
+}
+
+.about-label {
+    display: block;
+    font-weight: bold;
+    color: #1b03cd;
+    margin-bottom: 0.25rem;
+}
+
+.about-value {
+    display: block;
+    color: black;
+}
